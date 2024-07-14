@@ -1,6 +1,7 @@
 import subprocess
 import time
 
+# Added to test git commit testing
 
 def wait_for_postgres(host, max_retries=5, delay_seconds=5):
     """Wait for PostgreSQL to become available."""
